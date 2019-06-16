@@ -2,7 +2,7 @@
 	SoccerJam por FlyingCat
     
     Informacion:
-    1. Jugabilidad:
+    1. Descripción:
         Este modo de juego consiste en 2 equipos enfrentandose por ser
         el primero en llegar a 15 goles (Configurable). Cuando entras al servidor tu
         comienzas con 0 mejoras. Obtienes experiencia a través de distintos
@@ -15,13 +15,13 @@
 
         Los controles son sencillos de aprender. Todas las teclas son las
         predeterminadas. Si tienes mas dudas, escribe /help cuando estes
-        en el juego y lee el mensaje de ayuda para aprender todo sobre el 
-        juego.
+        en el juego y lee el mensaje de ayuda para aprender todo sobre este 
+        modo de juego.
     
     2. Mejoras: (Aun no disponible)
         - Resistencia/Stamina: Incrementa la vida.
         - Fuerza/Strength: Incrementa la fuerza de tiro de la pelota.
-        - AgiliEntityPlayerad/Agility: Incrementa la velocidad al correr.
+        - Agilidad/Agility: Incrementa la velocidad al correr.
         - Destreza/Dexterity: Aumenta la oportunidad de atrapar la pelota cuando
           alguien lo patea.
         - Power Play/Esfuerzo de equipo: Incrementa la Fuerza y Agilidad. Este es
@@ -44,15 +44,15 @@
 
     3.2 Instalacion de recursos:
         - Descargar el archivo comprimido hl_soccerjam_resources.rar y extraerlo
-        todo dentro de valve
+        todo dentro de la carpeta valve
         - Por ultimo, iniciar el servidor y a jugar.
 
     5. Agradecimientos:
         - OneEyed: Por su SoccerJam para CS 1.6
         - Gabe Iggy: Sistema de rondas
-        - TheHirowe: Beta Tester
-        - Frank Lee: Beta Tester
-        - K3NS4N: Beta Tester
+        - TheHirowe: Tester
+        - Frank Lee: Tester
+        - K3NS4N: Tester
     
     Contacto: flyingcatdm@gmail.com
 */
